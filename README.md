@@ -10,9 +10,7 @@
 **Webapp e API per esplorare i dati sulle scuole italiane.**
 
 🔗 **Live:** [scuolaindati.it](https://scuolaindati.it)
-
-# scuolaindati-scraper
-🔗 [github.com/wobblyhen920/scuolaindati_scraper/tree/main](https://github.com/wobblyhen920/scuolaindati_scraper/tree/main) 
+🔗 **Scraper:** [github.com/wobblyhen920/scuolaindati_scraper/tree/main](https://github.com/wobblyhen920/scuolaindati_scraper/tree/main) 
 
 ---
 
